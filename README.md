@@ -8,11 +8,11 @@ A new Flutter project.
 
 ### First Screen
 
-![UI](https://drive.google.com/file/d/1IpdYTzlogGwbT8NIWUfeEcqqzumGov9y/view?usp=sharing)
+![UI](C:\Users\Karan\Documents\tic_tac_toe\first_screen.png)
 
 ### Second Screen
-![UI](https://drive.google.com/file/d/1cXO8-6oHVvOqBysASi_foYivpSbcBm8D/view?usp=sharing)
+![UI](C:\Users\Karan\Documents\tic_tac_toe\second_screen.png)
 
 
 ### Third Screen
-![UI](https://drive.google.com/file/d/16Uv9XGdsd4CaZtT4WYsAz8Wx56n4I-1o/view?usp=sharing)
+![UI](C:\Users\Karan\Documents\tic_tac_toe\third_screen.png)
